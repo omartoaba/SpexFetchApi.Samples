@@ -1,2 +1,2 @@
 # SpexFetchApi.Samples
-contains sample code to use SpexFetch API and perform basic operation such single search 
+contains sample code to use SpexFetch API to perform basic operations, such as single search 
